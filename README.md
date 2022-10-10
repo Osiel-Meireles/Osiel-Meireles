@@ -1,7 +1,7 @@
 ## Olá, sou o Osiel
 ### Graduando em Análise e Desenvolvimento de Sistemas e aspirante a Cientista de Dados
 
-- 🔭 Estou em busca de uma oportunidade em desenvolvimento back-end ou análise de dados
+- 🔭 Estou em busca de oportunidades em Desenvolvimento Back-End ou Ciência de Dados
 - 📚 Estudando Python, SQL e CLoud
 
 <div align="center">
