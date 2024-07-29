@@ -1,14 +1,9 @@
 ## Olá, sou o Osiel Meireles
-### Graduando em Análise e Desenvolvimento de Sistemas e aspirante a Cientista de Dados
+### Graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Defesa Cibernética
 
-- 🔭 Estou em busca de oportunidades em Desenvolvimento Back-End e Ciência de Dados
-  ~~~ 
-  while oportunidades_preferenciais == 'Nada em vista': 
-    if oportunidade == 'Front-end' or oportunidade == 'Análise de Dados':
-      print('Aceito! Estou em busca de uma alocação no mercado de TI, o quanto antes vier, melhor!')
-      break
-  ~~~
-- 📚 Estudando Python, SQL e CLoud
+- 🔭 Estou em busca de oportunidades em Desenvolvimento Back-End.
+
+- 📚 Estudando .NET, SQL e React.
 
 <div align="center">
   <a href="https://github.com/Osiel-Meireles">
