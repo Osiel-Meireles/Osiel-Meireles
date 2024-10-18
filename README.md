@@ -3,7 +3,7 @@
 
 - 🔭 Estou em busca de oportunidades em Desenvolvimento Back-End.
 
-- 📚 Estudando .NET, SQL e React.
+- 📚 Estudando a plataforma .NET.
 
 <div align="center">
   <a href="https://github.com/Osiel-Meireles">
