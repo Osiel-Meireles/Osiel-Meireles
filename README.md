@@ -3,7 +3,7 @@
 
 - 🔭 Estou em busca de oportunidades em Desenvolvimento Back-End.
 
-- 📚 Estudando a plataforma .NET.
+- 📚 Estudando a linguagem Java.
 
 <div align="center">
   <a href="https://github.com/Osiel-Meireles">
