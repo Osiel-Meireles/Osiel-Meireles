@@ -1,4 +1,4 @@
-## Olá, sou o Osiel Meireles
+## Olá, sou o Osiel Meireles!
 ### Graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Defesa Cibernética
 
 - 🔭 Estou em busca de oportunidades em Desenvolvimento Back-End.
